@@ -35,6 +35,7 @@ include(":oneclickthieving")
 include(":reflection")
 include(":soundfilter")
 include(":tradewindow")
+include(":dncollect")
 
 
 for (project in rootProject.children) {
